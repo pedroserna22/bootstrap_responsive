@@ -1,0 +1,27 @@
+#titleNav{
+    color: rgb(255, 255, 255);
+    margin-right: 4rem;
+}
+
+.navEle{
+    color: white;
+    margin-right: 4rem;
+}
+
+.navEleGrey{
+    color: rgb(198, 198, 198);
+    margin-right: 4rem;
+}
+.navEleGrey:hover{
+    color: white;
+}
+
+.opciones{
+    padding: 30%;
+}
+
+.justified-text{
+    text-align: justify; 
+    text-justify: inter-word;
+}
+
